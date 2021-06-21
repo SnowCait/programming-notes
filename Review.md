@@ -61,3 +61,9 @@
 
 ## 参考
 - [Google Developers Japan: コードの健全性: 礼儀正しいレビュー == 役立つレビュー](https://developers-jp.googleblog.com/2019/12/respectful-reviews.html)
+
+## メモ
+
+- 問題の指摘
+- 意図の確認
+- 感想
