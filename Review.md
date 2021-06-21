@@ -61,6 +61,7 @@
 
 ## 参考
 - [Google Developers Japan: コードの健全性: 礼儀正しいレビュー == 役立つレビュー](https://developers-jp.googleblog.com/2019/12/respectful-reviews.html)
+- [レビューする人も、される人も知っておきたい！開発プロセスごとのレビュー観点チェックリスト - Qiita](https://qiita.com/vankobe/items/551a77fc4fd4b1378fd8)
 
 ## メモ
 
