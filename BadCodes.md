@@ -13,4 +13,5 @@ switch (ENVIRONMENT)
 
 # good
 if (enabled('some-feature'))
+$value = get('some-feature-value')
 ```
