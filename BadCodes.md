@@ -12,6 +12,6 @@ if (in_array(ENVIRONMENT, ['some-environment-1', 'some-environment-2']))
 switch (ENVIRONMENT)
 
 # good
-if (enabled('some-feature'))
-$value = get('some-feature-value')
+if ($config->enabled('some-feature'))
+$value = $config->get('some-feature-value')
 ```
