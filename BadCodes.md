@@ -8,6 +8,7 @@
 ```php
 # bad
 if (ENVIRONMENT == 'some-environment')
+if (in_array(ENVIRONMENT, ['some-environment-1', 'some-environment-2']))
 switch (ENVIRONMENT)
 
 # good
