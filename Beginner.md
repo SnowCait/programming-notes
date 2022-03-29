@@ -5,6 +5,20 @@
 - iOS アプリの開発をする場合は Mac
 
 ## 言語
+
+### 共通
+- 英語
+  - 公式ドキュメント
+- SQL
+  - Database
+- YAML
+  - GitHub Actions
+  - Docker Compose
+  - Open API
+- JSON
+  - 各種 API
+
+### 開発
 **JavaScript** がおすすめ。
 
 - 言語仕様がシンプル
@@ -13,5 +27,5 @@
 - クライアントとサーバーの両方が書ける
 - ステップアップ先として TypeScript がある
 
-### 注意
+#### 注意
 - jQuery は使わない
