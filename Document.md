@@ -1,5 +1,9 @@
 # ドキュメント
 
+## Document
+- [テクニカルライティングの基本 - Speaker Deck](https://speakerdeck.com/naohiro_nakata/technicalwriting)
+- [開発ドキュメントをレビューする方法 - applis](https://applis.io/posts/how-to-review-document)
+
 ## HTML
 - [Docusaurus](https://v2.docusaurus.io/)
 
