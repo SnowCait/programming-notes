@@ -9,6 +9,7 @@
 
 ## 表記
 - [外来語（カタカナ）表記ガイドライン](https://www.jtca.org/standardization/katakana_guide_3_20171222.pdf)
+- [資料で使う技術/プロダクトロゴのリンク集 - Qiita](https://qiita.com/tkit/items/932316c5f5f7b162b61e)
 
 ## HTML
 - [Docusaurus](https://v2.docusaurus.io/)
