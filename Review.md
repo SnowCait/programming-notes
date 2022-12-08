@@ -68,6 +68,7 @@
 - [Google Developers Japan: コードの健全性: 礼儀正しいレビュー == 役立つレビュー](https://developers-jp.googleblog.com/2019/12/respectful-reviews.html)
 - [レビューする人も、される人も知っておきたい！開発プロセスごとのレビュー観点チェックリスト - Qiita](https://qiita.com/vankobe/items/551a77fc4fd4b1378fd8)
 - [レビューをもらいやすい細かいプルリクの切り分け方 - Software engineering from east direction](https://khigashigashi.hatenablog.com/entry/2018/03/09/020359)
+- [巨大なプルリクエストのコードレビューを乗り越える - Mobile Factory Tech Blog](https://tech.mobilefactory.jp/entry/2022/12/09/000000)
 
 ## メモ
 
